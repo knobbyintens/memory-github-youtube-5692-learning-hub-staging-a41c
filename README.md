@@ -1,7 +1,4 @@
-# Atlas Learning Hub
+# Jekyll Starter Template
 
-Atlas Learning Hub is the public learning portal of Meridian Learning's Atlas program.
-It curates the best external tutorials for each published module.
-
-- [Featured videos](featured-videos.md)
-- [Module catalog](module-catalog.md)
+This repository is a working copy of the studio's standard Jekyll site starter.
+It is used as the base for public program portals.
